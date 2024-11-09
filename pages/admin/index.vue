@@ -5,7 +5,7 @@
     </section>
     <section class="existing-post">
       <h1>Existing posts</h1>
-      <PostList />
+      <PostList :isAdmin="true"/>
     </section>
   </div>
 </template>
