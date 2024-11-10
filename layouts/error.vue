@@ -1,5 +1,8 @@
 <template>
-  <div class="error-div">Sorry No such page found.</div>
+  <div class="error-div">
+    <h1>Sorry No such page found.</h1>
+    <p>Go back to <a href="/">Safety</a></p>
+  </div>
 </template>
 
 <script>
